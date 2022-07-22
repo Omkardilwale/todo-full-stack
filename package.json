@@ -16,7 +16,7 @@
     "mern",
     "stack"
   ],
-  "author": "Moses Fawole",
+  "author": "omkar-dilwale",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
